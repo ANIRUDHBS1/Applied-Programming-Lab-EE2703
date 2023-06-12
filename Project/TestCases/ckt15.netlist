@@ -1,0 +1,11 @@
+.circuit
+V1 GND 1 dc 10
+R1 GND 1 5
+.end
+
+.circuit
+V1 GND 1 dc 10
+R1 GND 1 4
+.end
+
+Example of circuit with multiple .circuit and .end

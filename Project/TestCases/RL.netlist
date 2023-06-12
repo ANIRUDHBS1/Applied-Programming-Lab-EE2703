@@ -1,0 +1,6 @@
+.circuit
+V1 GND n1 dc -5 ; up
+R1 n1 n2 1 ; right
+L1 n2 n3 1 ; down
+R3 n3 GND 1 ; left
+.end
