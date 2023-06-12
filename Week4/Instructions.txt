@@ -1,0 +1,4 @@
+**Instructions**
+1. The ipynb notebook is my submission with the report
+2. To run the DAGApproachTime.py or EDSApproachTime.py , first update the inputs.txt file with the inputs that correspond to the given net
+3. Load the net while running the .py file and the time will be returned as the output.

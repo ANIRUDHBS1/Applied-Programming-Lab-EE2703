@@ -1,0 +1,7 @@
+G0 and2 A B D
+G1 xor2 B C E
+G2 inv C F
+G3 and2 B E G
+G4 and2 E F H
+G5 or2 D G I
+G6 or2 G H J
