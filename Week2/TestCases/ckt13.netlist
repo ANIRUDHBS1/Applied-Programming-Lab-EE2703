@@ -1,0 +1,5 @@
+.circuit
+V1 1 2 dc 10
+R1 1 2 5
+.end
+ Example of a cirucit without GND
