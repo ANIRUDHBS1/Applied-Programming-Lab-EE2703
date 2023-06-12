@@ -1,0 +1,7 @@
+.circuit
+I1 GND 1 dc 10
+I2 GND 1 dc 10
+I3 GND 1 dc 10
+.end
+
+This netlist shows that current sources focussed at a single node will throw an error.

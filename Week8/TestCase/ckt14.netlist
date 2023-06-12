@@ -1,0 +1,4 @@
+V1 GND 1 ac 5
+R1 GND 1 5
+
+Example of circuit without .circuit and .end
