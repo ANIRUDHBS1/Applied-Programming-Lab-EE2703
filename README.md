@@ -3,7 +3,7 @@ Brief Description of each of the assignments is provided below
 
 **Assignment 1** - Introduction to Python
 
-**Assignment 2** - Designing a linear equsation solver and a circuit solver given a SPICE netlist.
+**Assignment 2** - Designing a linear equation solver and a circuit solver given a SPICE netlist.
 
 **Assignment 3** - Introduction to the Matplotlib library
 
