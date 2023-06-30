@@ -17,6 +17,6 @@ Brief Description of each of the assignments is provided below
 
 **Assignment 8** - Introduction to Cython and speeding up Assignment 2
 
-**Demo Assignmetns** - Convolution and Multiprocessing using Python
+**Demo Assignments** - Convolution and Multiprocessing using Python
 
 **Project** - Dynamic Circuit Solver and Transient Simulation using Python.
