@@ -1,8 +1,22 @@
 # Applied Programming Lab (EE2703) Spring 2023
-The repository contains all the assignments and my solutions to the course Applied Programming Lab (EE2703) offered during Jan-May 2023 semester at IIT Madras. The assignments carried a significant 70% of the grade. 
+Brief Description of each of the assignments is provided below
 
-In addition to the assignments, three programming quizzes were conducted which contributed to 20% of the grade.  
+**Assignment 1** - Introduction to Python
 
-There was an in-class programming contest carrying 10% of the grade. We were allowed to code in any programming language. We had to submit the outputs as well as the code immediately after the contest. We were allowed to attempt the contest in groups of atmost three members. 
+**Assignment 2** - Designing a matrix solver and a circuit solver given a SPICE netlist.
 
-In addition, there was an optional Project associated with the course. This contributed to **BONUS** marks. Students were asked to come up with an interesting idea, discuss with the Professor and then go about working on the same. Some sample ideas were given in some of the problem statements.
+**Assignment 3** - Introduction to Matplotlib library
+
+**Assignment 4** - Solving a digital circuit using Graphs and Event Driven Simulation
+
+**Assignment 5** - Introduction to animation using Python
+
+**Assignment 6** - Employing Gradient Descent to find minima
+
+**Assignment 7** - Using Simulated Annealing to find global extremum given an optimization problem
+
+**Assignment 8** - Introduction to Cython and speeding up Assignment 2
+
+**Demo Assignmetns** - Convolution and Multiprocessing using Python
+
+**Project** - Dynamic Circuit Solver and Transient Simulation using Python.
