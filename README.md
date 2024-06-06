@@ -1,4 +1,7 @@
 # Applied Programming Lab (EE2703) Spring 2023
+
+This repository consists of assignments and their responses to the course Applied Programming Lab (EE2703) offered by Prof. Nitin Chandrachoodan in the Jan-May 2023 semester at IIT Madras.
+
 Brief Description of each of the assignments is provided below
 
 **Assignment 1** - Introduction to Python
