@@ -1,6 +1,6 @@
 # Applied Programming Lab (EE2703) Spring 2023
 
-This repository consists of assignments and their responses to the course Applied Programming Lab (EE2703) offered by Prof. Nitin Chandrachoodan in the Jan-May 2023 semester at IIT Madras.
+This repository consists of assignments and their responses to the course Applied Programming Lab (EE2703) offered by Prof. Nitin Chandrachoodan in the Jan-May 2023 semester at IIT Madras. The programming language used throughout the course is Python. 
 
 Brief Description of each of the assignments is provided below
 
